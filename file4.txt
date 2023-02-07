@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Velocity
-=======
 Velocity corporate training
->>>>>>> dev2
